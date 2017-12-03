@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Meaningful Noise</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="strWqTitle">Wörterquiz</string>
+    <string name="strWlTitle">Wortliste</string>
+    <string name="permission_external_storage_rationale">Wenn Sie ablehnen, wird der interne Gerätespeicher verwendet. Dieser kann schnell voll sein.</string>
+    <string name="ok">OK</string>
+    <string name="strWlAdd">Neues Wort aufnehmen</string>
+</resources>
